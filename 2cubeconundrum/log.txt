@@ -1,0 +1,200 @@
+minimum required:3 4 1
+12
+minimum required:14 9 14
+1776
+minimum required:16 11 7
+3008
+minimum required:3 20 4
+3248
+minimum required:6 5 2
+3308
+minimum required:1 3 8
+3332
+minimum required:6 13 2
+3488
+minimum required:6 11 5
+3818
+minimum required:19 5 8
+4578
+minimum required:10 8 8
+5218
+minimum required:2 9 9
+5380
+minimum required:8 14 14
+6948
+minimum required:13 11 7
+7949
+minimum required:8 9 6
+8381
+minimum required:19 3 1
+8438
+minimum required:12 17 8
+10070
+minimum required:1 2 3
+10076
+minimum required:2 8 7
+10188
+minimum required:18 18 4
+11484
+minimum required:7 17 1
+11603
+minimum required:11 2 9
+11801
+minimum required:9 8 2
+11945
+minimum required:7 15 1
+12050
+minimum required:2 7 3
+12092
+minimum required:6 10 16
+13052
+minimum required:1 10 8
+13132
+minimum required:2 8 14
+13356
+minimum required:12 3 12
+13788
+minimum required:15 5 8
+14388
+minimum required:8 5 15
+14988
+minimum required:9 6 6
+15312
+minimum required:17 8 17
+17624
+minimum required:15 6 17
+19154
+minimum required:3 17 9
+19613
+minimum required:10 6 18
+20693
+minimum required:10 14 3
+21113
+minimum required:16 1 7
+21225
+minimum required:5 6 15
+21675
+minimum required:10 7 8
+22235
+minimum required:4 12 6
+22523
+minimum required:4 19 11
+23359
+minimum required:4 15 5
+23659
+minimum required:11 19 13
+26376
+minimum required:7 3 19
+26775
+minimum required:3 10 12
+27135
+minimum required:6 7 4
+27303
+minimum required:3 15 14
+27933
+minimum required:17 3 14
+28647
+minimum required:7 1 8
+28703
+minimum required:2 8 13
+28911
+minimum required:5 14 3
+29121
+minimum required:18 17 12
+32793
+minimum required:2 13 10
+33053
+minimum required:12 15 6
+34133
+minimum required:5 10 4
+34333
+minimum required:5 7 9
+34648
+minimum required:11 15 18
+37618
+minimum required:15 20 12
+41218
+minimum required:11 14 19
+44144
+minimum required:1 15 6
+44234
+minimum required:5 9 17
+44999
+minimum required:2 3 5
+45029
+minimum required:7 5 4
+45169
+minimum required:14 1 12
+45337
+minimum required:2 8 2
+45369
+minimum required:11 7 6
+45831
+minimum required:12 18 9
+47775
+minimum required:12 13 9
+49179
+minimum required:4 11 6
+49443
+minimum required:16 9 12
+51171
+minimum required:4 9 6
+51387
+minimum required:3 3 4
+51423
+minimum required:7 15 6
+52053
+minimum required:12 13 7
+53145
+minimum required:2 3 18
+53253
+minimum required:3 8 7
+53421
+minimum required:2 8 11
+53597
+minimum required:9 13 6
+54299
+minimum required:1 17 9
+54452
+minimum required:16 10 3
+54932
+minimum required:19 2 20
+55692
+minimum required:18 10 13
+58032
+minimum required:3 7 16
+58368
+minimum required:7 3 6
+58494
+minimum required:15 9 1
+58629
+minimum required:14 11 16
+61093
+minimum required:5 3 10
+61243
+minimum required:4 4 12
+61435
+minimum required:18 12 5
+62515
+minimum required:16 10 13
+64595
+minimum required:1 3 2
+64601
+minimum required:10 14 16
+66841
+minimum required:10 8 4
+67161
+minimum required:10 2 12
+67401
+minimum required:14 10 5
+68101
+minimum required:2 1 5
+68111
+minimum required:3 16 16
+68879
+minimum required:2 20 16
+69519
+minimum required:7 9 7
+69960
+minimum required:20 7 9
+71220
